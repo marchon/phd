@@ -1,28 +1,39 @@
 """ 
-LICENSE TYPE: UNKNOWN 
+LICENSE TYPE: MIT
 
-    I have requested from the original author use under the MIT License
-    
-    his name is: 
-    his website is: http://www.flatown.com/about.html
-    his email address is: 
-    original github repo: https://github.com/jflatow/phd/blob/master/geometry/hyperbolic.py  
+Received: from [192.168.2.2] (adsl-76-254-50-95.dsl.pltn13.sbcglobal.net [76.254.50.95])
+	(Authenticated sender: jared@skej.us)
+	by relay6-d.mail.gandi.net (Postfix) with ESMTPSA id D9F06FB883
+	for <marchon@gmail.com>; Sun,  2 Nov 2014 08:05:18 +0100 (CET)
+From: Jared Flatow <jflatow@gmail.com>
+Content-Type: multipart/alternative; boundary="Apple-Mail=_A174274C-E60A-4BEC-B9E6-8EAACA36F10A"
+Message-Id: <7AC2783C-4844-4C47-B724-47E6C8DEE4F9@gmail.com>
+Mime-Version: 1.0 (Mac OS X Mail 6.6 \(1510\))
+Subject: Re: I just cloned your github library phd.git
+Date: Sun, 2 Nov 2014 00:05:15 -0700
+References: <CAC938DiY8u2iVk2ByKRBJYY1aGbEavqsBVUnewGZvh1HfJTSCQ@mail.gmail.com>
+To: George Lambert <marchon@gmail.com>
+In-Reply-To: <CAC938DiY8u2iVk2ByKRBJYY1aGbEavqsBVUnewGZvh1HfJTSCQ@mail.gmail.com>
+X-Mailer: Apple Mail (2.1510)
 
-    The Coolest thing that he put in his about page:
-               
-             "I'm especially interested in 
-              the relationship between humans and machines. 
-              I like to build things that fit human intuition. 
-              I want to understand why people do what they do, 
-              and how to build systems that are 
-              robust to our flaws.
-             " 
 
-    It is an interesting and "Bell Curvish" statement.
-    When I get a response from him I will update the header to this file. 
+--Apple-Mail=_A174274C-E60A-4BEC-B9E6-8EAACA36F10A
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain;
+	charset=windows-1252
+
+Yes I hereby grant you such a license :) Thanks for asking first.
+
+I look forward to seeing what you do with it! I never used it for =
+anything practical. I should probably continue with the extending to =
+higher dimensions at some point, Dr. Wildberger confirmed that I was =
+going in the right direction=85
+
+best,
+jared
+
 """ 
-_License = 'Unknown'  
-_ProposedLicense = 'MIT' 
+_License = 'MIT'  
 
 """
 The MIT License

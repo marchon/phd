@@ -1,0 +1,60 @@
+"""
+LICENSE TYPE: MIT
+
+Received: from [192.168.2.2] (adsl-76-254-50-95.dsl.pltn13.sbcglobal.net [76.254.50.95])
+        (Authenticated sender: jared@skej.us)
+        by relay6-d.mail.gandi.net (Postfix) with ESMTPSA id D9F06FB883
+        for <marchon@gmail.com>; Sun,  2 Nov 2014 08:05:18 +0100 (CET)
+From: Jared Flatow <jflatow@gmail.com>
+Content-Type: multipart/alternative; boundary="Apple-Mail=_A174274C-E60A-4BEC-B9E6-8EAACA36F10A"
+Message-Id: <7AC2783C-4844-4C47-B724-47E6C8DEE4F9@gmail.com>
+Mime-Version: 1.0 (Mac OS X Mail 6.6 \(1510\))
+Subject: Re: I just cloned your github library phd.git
+Date: Sun, 2 Nov 2014 00:05:15 -0700
+References: <CAC938DiY8u2iVk2ByKRBJYY1aGbEavqsBVUnewGZvh1HfJTSCQ@mail.gmail.com>
+To: George Lambert <marchon@gmail.com>
+In-Reply-To: <CAC938DiY8u2iVk2ByKRBJYY1aGbEavqsBVUnewGZvh1HfJTSCQ@mail.gmail.com>
+X-Mailer: Apple Mail (2.1510)
+
+
+--Apple-Mail=_A174274C-E60A-4BEC-B9E6-8EAACA36F10A
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain;
+        charset=windows-1252
+
+Yes I hereby grant you such a license :) Thanks for asking first.
+
+I look forward to seeing what you do with it! I never used it for =
+anything practical. I should probably continue with the extending to =
+higher dimensions at some point, Dr. Wildberger confirmed that I was =
+going in the right direction=85
+
+best,
+jared
+
+"""
+_License = 'MIT'
+
+"""
+The MIT License
+
+Copyright (c) Jared Flatow 2014   http://www.flatown.com
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+"""
